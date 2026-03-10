@@ -1,0 +1,21 @@
+#Carpetas de compilación y configuración local
+
+build/
+.vscode/
+out/
+
+#Archivos ejecutables y binarios
+
+*.exe
+*.dll
+*.o
+*.obj
+
+#Archivos de datos locales
+
+omnivault_data.json
+
+#Archivos temporales de sistema operativo
+
+.DS_Store
+Thumbs.db
